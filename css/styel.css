@@ -1,0 +1,113 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	vertical-align: center;
+	color:#fff;
+}
+.main-box{
+	width: 1170px;
+	height: 925px;
+	background: #fff;
+	margin: 0 auto;
+}
+.navigation{
+	width: 100%;
+	height:50px;
+	background: #6B6C71;
+	line-height: 50px;
+}
+.menu-bar{
+	padding-top: 5px;
+}
+.logo{
+	width: 19.5%;
+	height: 75px;
+	background: #6B6C71;
+	float: left;
+	line-height: 75px;
+}
+.header-ad{
+	width:80%;
+	height: 75px;
+	background: #6B6C71;
+	float: right;
+	line-height: 75px;
+}
+.content-bar{
+	width: 100%;
+	height:700px;
+	padding-top: 80px;
+}
+.content {
+    width: 59.5%;
+    height: 730px;
+    background: #6B6C71;
+    float: left;
+    line-height: 730px;
+}
+.sidebar{
+}
+.sidebar-ad{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	line-height: 100px;
+}
+.facebook-box{
+	width: 40%;
+	height: 100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.latest-blogs{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.secondary-links{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.game-link{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.contact-link{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.tutorials{
+	width: 40%;
+	height:100px;
+	background: #6B6C71;
+	float: right;
+	margin-top: 5px;
+	line-height: 100px;
+}
+.footer {
+    width: 100%;
+    height: 55px;
+    background: #6B6C71;
+    margin-top: 35px;
+    line-height: 55px;
+}
